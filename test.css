@@ -1,0 +1,31 @@
+html,
+
+
+body{
+    height: 100%;
+    font-size: "Open Sans", sans-serif;
+    
+}
+h1{
+    font-size: 70px;
+    color: rgb(92, 92, 243);
+}  
+h2{
+    font-size: 36px;
+    color: rgb(101, 194, 206);
+}
+p{
+    font-size: 13px;
+    columns: black;
+    list-style: 2;
+}
+strong{
+    color: rgb(108, 0, 117);
+}
+
+b{
+    color: rgb(183, 63, 194);
+}
+img{
+    width: 10%;
+}
